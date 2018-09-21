@@ -1,0 +1,30 @@
+_repo: Forge-Work_53854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ilgen, William L. (William Lewis)
+    alias: Ilgen, William Lewis
+    birthdate: 1862
+    gutenberg_agent_id: '47577'
+    url: http://www.gutenberg.org/2009/agents/47577
+  editor:
+    agent_name: Moore, Charles Frederick
+    birthdate: 1875
+    gutenberg_agent_id: '47571'
+    url: http://www.gutenberg.org/2009/agents/47571
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53854'
+  lccn: '12024330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forging'
+- !lcc 'TT'
+- GITenberg
+title: Forge Work
+url: http://www.gutenberg.org/ebooks/53854
